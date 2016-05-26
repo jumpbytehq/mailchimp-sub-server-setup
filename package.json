@@ -1,0 +1,9 @@
+{
+  "name": "subscription-server",
+  "main": "server.js",
+  "dependencies": {
+  	"express": "~4.10.2",
+    "body-parser": "^1.15.1",    
+    "request": "^2.72.0"
+  }
+}
